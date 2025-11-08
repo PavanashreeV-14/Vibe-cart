@@ -16,22 +16,5 @@ Built with clean design principles and powerful technologies, VibeCart offers a 
 
 ---
 
-## 🧰 Tech Stack
 
-| Category | Technologies |
-|-----------|---------------|
-| **Frontend** | React.js / Next.js / Tailwind CSS |
-| **Backend** | Node.js / Express.js |
-| **Database** | MongoDB / PostgreSQL |
-| **Authentication** | JWT / Firebase Auth |
-| **Payments** | Stripe / Razorpay |
-| **Deployment** | Vercel / Render / AWS |
 
----
-
-## ⚙️ Installation & Setup
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/vibecart.git
-   cd vibecart
